@@ -1,4 +1,4 @@
-import { FaBolt, FaLandmark, FaFootball, FaBitcoin, FaAt, FaMagnifyingGlass } from "react-icons/fa6";
+import { FaBolt, FaLandmark, FaFootball, FaBitcoin, FaAt } from "react-icons/fa6";
 import { IoBriefcaseOutline } from "react-icons/io5";
 import { ReactElement } from "react";
 
