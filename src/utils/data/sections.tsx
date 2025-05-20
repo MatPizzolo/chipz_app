@@ -15,7 +15,6 @@ const sections: SectionInfo[] = [
   { name: "Economy", icon: <IoBriefcaseOutline className="inline-block" />, path: "/economy" },
   { name: "Crypto", icon: <FaBitcoin className="inline-block" />, path: "/crypto" },
   { name: "Mentions", icon: <FaAt className="inline-block" />, path: "/mentions" },
-  { name: "Search", icon: <FaMagnifyingGlass className="inline-block" />, path: "/search" },
 ];
 
 export default sections;
